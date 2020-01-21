@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easy Password</string>
+    <string name="search_a_password">Search a Password</string>
+    <string name="delete_all_passwords">Delete all Passwords</string>
+    <string name="importez_une_sauvegarde">Importez une sauvegarde</string>
+    <string name="importez_tous_les_mots_de_passe">Exportez tous les mots de passe</string>
+</resources>
